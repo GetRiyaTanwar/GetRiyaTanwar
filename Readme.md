@@ -8,7 +8,7 @@
  ![](https://komarev.com/ghpvc/?username=your-github-GetRiyaTanwar)
 
 I am Riya Tanwar from India :D <br>
-- 🌱 I’m currently learning and exporing Everything!
+- 🌱 I’m currently learning and exploring Everything!
 - 💬 Tech Enthusiast
 - 📫 How to reach me: <a href="https://twitter.com/Riya_tanwar2112" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Riya_tanwar2112" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/getriyatanwar/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="getriyatanwar" height="30" width="30" /></a>&nbsp;
